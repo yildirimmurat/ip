@@ -1,0 +1,12 @@
+Base Object(class)
+
+Tanım : Temel,ana nesne.Bütün veritabanına yazılacak nesneler bundan türer.
+
+- Id(Guid) : Key alan,veritabanında bütün türetilmiş sınıfların primary key'i olacak
+- Name(String) : Ad alanı,nesnelerin adı
+                  (Marka adı,Hareket Adı...)
+- Description(String) : Açıklama alanı,ad alanına göre daha uzun içerikler tutmayı sağlar.
+                        (Hareket açıklaması,Buluş özeti...)
+- Display Name() : Görünen Ad,bazen ilgili nesnesin açılan ekranlarda özet bir ifade ile görünmesini sağlar.
+                    (Örneğin rapor satırlarında bir marka başvurusu {ApplicationNumber}/{ApplicationDate} şeklinde)
+                    Varsayılan Değer : Ad alanınını döndürür

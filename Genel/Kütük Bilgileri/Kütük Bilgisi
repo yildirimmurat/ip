@@ -1,0 +1,14 @@
+Log(class) : BaseObject(Temel Nesne,class)
+
+Tanım : Oluşabileek bütün runtime hataların yakalanması,biriktirilmesi ve yorumlanması için gerekli nesne
+
+Özellikler :
+
+- LogType(LogType) : Log tipini gösterir(Error,Info vs)
+                      Varsayılan değer : Error
+- Category(string) : Gruplandırma amaçlı kullanılır.
+                      (Örneğin hata hangi sınıfta meydana geldi)
+- Name(Base Object'ten miras) : Log adı (Örneğin hata hangi fonksiyonda oldu)
+- Description(Base Object'ten miras) : Açıklama(Yakalanan hatanın ayrıntısı gibi)
+- ObjectId : Eğer bir nesne üzerinde olay vuku bulduysa o nesnenin Id si,
+              bir nesneye işaret etmesi zorunlu değil,null olabilir.

@@ -1,0 +1,9 @@
+ LogType(enum)
+
+Tanım : Log nesnesinin bir özelliğidir
+
+Özellikler :
+- Error : Her türlü istenilmeyen durumlarda kullanılır
+- Info : Uyarı,bilgilendirme biçimindeki olayları belirtir
+
+Not : Eğer daha farklı durumlar tasarlanıyorsa enum seçenekleri çoğaltılabilir veya class'a çevrilebilir.
