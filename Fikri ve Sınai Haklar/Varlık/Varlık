@@ -1,5 +1,5 @@
 Asset(Varlık)-Application(Başvuru)-File(Dosya)(class) : BaseObject(Temel Nesne,class)
 
-Tanım :
+Tanım : gayri maddi varlık, diğer maddi haklar gibi satılabilir, kiraya verilebilir, rehin tutulabilir.
 
-Özellikler :
+Özellikler : son durum (yaşıyor, ölü), koruma süresi var, yenileme zamanı var
