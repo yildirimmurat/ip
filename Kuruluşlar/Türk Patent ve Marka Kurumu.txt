@@ -1,3 +1,17 @@
+Otoriteler:
+Uluslararası otoriteler: WIPO, EPO, AVRASYA, ARIPO, afrikadaki diğer bölgesel otorite, körfez ülkeleri birleşik otoritesi
+Ulusal otoriteler: "Two letter code ile temsil edilen paris anlaşması ve Wto anlaşmasına taraf ülkeler" 
+                TR, US, JP, DE gibi
+                
+otoritenin eylemleri: 
+  başvuruyu kabul etmek -> başvuru numarası oluşturur ve başvurucuya iletir
+  yayına çıkmak -> yayın numarası oluşturur, yayın 3. kişilere karşı hüküm doğurur.
+  tescil etmek -> tescil numarası oluşturur, korumayı tescillemiş olur
+  reddetmek -> temyiz, mahkeme yolu açık
+  "ofis aksiyon", patent için araştırma raporu ve inceleme raporu göndermeyi de içeren diğer tüm aksiyonlar
+  hak sahibinden gelen tüm talepleri değerlendirir.
+
+
 TURK PATENT ve MARKA KURUMU
 
 Tanım :

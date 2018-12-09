@@ -3,4 +3,22 @@ Asset(Varlık)-Application(Başvuru)-File(Dosya)(class) : BaseObject(Temel Nesne
 Tanım : gayri maddi varlık, diğer maddi varlıklar gibi satılabilir, kiraya verilebilir, rehin alınabilir.
 
 
-Özellikler : bir hak sahibi var, son durumu (yaşıyor, ölü), yaşayan haklar (başvuru sürecinde, tescilli), belirli bir koruma süresi var, itiraz edilebilir, hükümsüzlük davası açılabilir.
+Özellikler : bir hak sahibi var, son durumu (yaşıyor, ölü),
+      yaşayan haklar (başvuru sürecinde, tescilli), belirli bir koruma süresi var, itiraz edilebilir,
+      hükümsüzlük davası açılabilir.
+
+Rüçhan süresi: patent, marka ve tasarımda var
+  Türkiye için bu süre patentte 12 ay, f. model, marka ve tasarımda 6 ay
+  sergi haklarından doğan rüçhan hakkı: patentte var, marka ve tasarım için bakmam lazım
+  
+uluslararası anlaşmalara tabi olabilir: patent için pct, marka için madrid, tasarım için lahey
+    yalnız pct bir tescil otoritesi değil, marka ve tasarım için bu konuya bi bakmam lazım
+    
+bir sahibi var: hak sahibi diyelim, hak sahibi için unique id olarak, vergi no veya tpe sahip no düşünülebilir.
+
+başvuru ile başlar -> başvuru numarası
+eğer yaşıyorsa tescil durumu var (true/false): "otorite" tarafından tescil edilir. -> tescil numarası alır
+
+yayına çıkar: "otorite" tarafından -> yayın numarası alır
+
+bir aile id si içerir -> aile numarası diyelim
